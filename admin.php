@@ -45,7 +45,10 @@ function logout() {
 }
 
 function drawDashboard() {
+    $results = array();
+    $results['content'] = CLASS_PATH . "/admin/dashboardHome.php";
 
+    require(TEMPLATES . "/admin/dashboard.php");
 }
 
 ?>
