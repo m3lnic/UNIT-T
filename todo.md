@@ -1,0 +1,16 @@
+- Rework footer so that it links to my github
+- Double check the htaccess file and ensure that it's working properl
+- - Had some issues where it wasn't working on the cPanel
+- Rework how we do templates
+- Rework how we draw the pages
+- Implement modules and widgets instead of hard coding it all
+- Begin work on implementing the dashboard
+- - Create a basic user management for the orbat
+- - Create a basic attendance checker for operations
+- - - Will need to link to battleye / the server
+- - - Will need to find a way to simplify the orbat.json file so that it can be rapidly checked
+- - Add something that allows administrators to check if the server is currently up
+- Rework the homepage so that it doesn't feel as empty
+- - Chase up people regarding the trailer
+- - Reword the 3 main points (?)
+- - Provide a button to the admin page in the footer
