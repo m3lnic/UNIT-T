@@ -1,0 +1,112 @@
+{
+    "Company HQ": {
+        "Company CO": "CC-2543 \"Kchag\"",
+        "Company XO": "CLOSED"
+    },
+    "Air": {
+        "Phoenix HQ": {
+            "SQN CMDR": "CXX-9999 \"Ghostee\"",
+            "SQN XO": "CLOSED"
+        },
+        "1st Flight": [
+            "CXS-7246 \"Longfield\"",
+            "CXP-1945 \"Roenz\"",
+            "CLOSED",
+            "CLOSED"
+        ],
+        "2nd Flight": [
+            "OPEN",
+            "CLOSED",
+            "CLOSED",
+            "CLOSED"
+        ]
+    },
+    "Eagle 1-1": [
+        "CS-0115 \"Masterson\"",
+        "CLOSED",
+        "OPEN",
+        "CLP-M-0000 \"Saint\"",
+        "CT-1809 \"Zeno\"",
+        "OPEN"
+    ],
+    "Hawk Platoon": {
+        "HQ": {
+            "Platoon Leader": "CL2-0099 \"Spart\"",
+            "Platoon Sergeant": "CSS-0609 \"Heik\"",
+            "Platoon Medic": "CP-M-4618 \"Thotcher\""
+        },
+        "Hawk 1-1": [
+            "CS-0113 \"Pat\"",
+            "OPEN",
+            "CT-5050 \"Hunted\"",
+            "CT-1687 \"Larry\"",
+            "A/LCP-7862 \"Sauce\"",
+            "CLP-2951 \"Oranges\"",
+            "CT-0420 \"Marvel\"",
+            "CR-2507-Fury",
+            "OPEN",
+            "OPEN",
+            "CR-6195 \"Terro\"",
+            "CT-8081 \"Hasho\"",
+            "CR-7557 \"Lucky\"",
+            "SCT-1171 \"Philly\"",
+            "OPEN",
+            "CR-0665 \"Elkrid\"",
+            "CR-0824 \"HUNT\"",
+            "OPEN",
+            "OPEN",
+            "OPEN",
+            "OPEN"
+        ],
+        "Hawk 1-2": [
+            "CLP-0284 \"Tank\"",
+            "CLP-M-0212 \"Goliath\"",
+            "CT-7777 \"Sevens\"",
+            "VCT-4573 \"Dennis\"",
+            "CP-5666 \"Click\"",
+            "CLP-M-6942 \"S-Chaddy\"",
+            "CT-6471 \"Nova\"",
+            "A/CLP-4458 \"Johnson\"",
+            "CT-8919 \"Ghost\"",
+            "CR-**** \"Feneco\"",
+            "CR-4977 \"Thomas\"",
+            "CT-5692 \"Horror\"",
+            "CR-5555 \"Fish\"",
+            "CR-1066 \"Darlo\"",
+            "CR-7756 \"Piercer\"",
+            "OPEN",
+            "CR-2905 \"Indiana\"",
+            "OPEN",
+            "CR-1804 \"Psycho\"",
+            "CR-0940 \"Bluejay\"",
+            "CR-1107 \"Shrek\""
+        ],
+        "Hawk 1-3": [
+            "A/CP-2768 \"Thunder\"",
+            "CLP-M-6021 \"Smiley\"",
+            "CT-2361 \"Lanky\"",
+            "CT-6015 \"Viper\"",
+            "SCT-2177 \"Dreadnought\"",
+            "CLP-M-1985 \"Smitty\"",
+            "OPEN",
+            "CR-3307 \"Snake\"",
+            "CT-8523 \"Pepper\"",
+            "OPEN",
+            "CR-1602 \"Bacta\"",
+            "CR-8008 \"Slippyfist\"",
+            "OPEN",
+            "OPEN",
+            "OPEN",
+            "OPEN",
+            "OPEN",
+            "OPEN"
+        ],
+        "Hawk 1-4": [
+            "CS-0138 \"Chaza\"",
+            "CP-M-5549 \"Mayhem\"",
+            "CT-6666 \"Viking\"",
+            "OPEN",
+            "CT-1762 \"Dragon\""
+        ]
+    }
+}

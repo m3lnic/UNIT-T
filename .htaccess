@@ -1,0 +1,12 @@
+DirectoryIndex index.php
+
+## REWRITE DEFAULTS
+RewriteEngine on
+RewriteBase /
+
+## FORCE HTTPS
+## RewriteCond %{HTTPS} off
+## RewriteRule ^(.*)$ https://
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ([^/]+)$ index.php?action=$1

@@ -1,0 +1,22 @@
+{
+    "1": {
+        "imagePath": "Infantry.png",
+        "imageTitle": "Hawk Platoon",
+        "imageDesc": "Hawk Platoon mounting a LAAT"
+    },
+    "2": {
+        "imagePath": "Air.png",
+        "imageTitle": "Griffin Squadron",
+        "imageDesc": "Griffin Squadron departing from an Quasar Cruiser - Carrier"
+    },
+    "3": {
+        "imagePath": "ARF.png",
+        "imageTitle": "Eagle 1-1",
+        "imageDesc": "Advanced Recon Force scouting for enemies"
+    },
+    "4": {
+        "imagePath": "Air2.png",
+        "imageTitle": "LAAT Landing",
+        "imageDesc": "Griffing 1-2 landing to pickup Hawk 1-3"
+    }
+}
